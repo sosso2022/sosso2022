@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (https://github.com/sosso2022/alida.github.io)
+https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (https://github.com/sosso2022/)
 <h1 align="center">Hi 👋, I'm Alida Mushiranzigo</h1>
 <h3 align="center">A passionate Data Engineer and developer from BURUNDI</h3>
 <img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
