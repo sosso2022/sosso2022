@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://alida.github.io](https://github.com/sosso2022/alida.github.io))
+[![MasterHead](https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (https://github.com/sosso2022/alida.github.io)
 <h1 align="center">Hi 👋, I'm Alida Mushiranzigo</h1>
 <h3 align="center">A passionate Data Engineer and developer from BURUNDI</h3>
-<img align="right" alt="Coding" width="" src="https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sosso2022&label=Profile%20views&color=0e75b6&style=flat" alt="sosso2022" /> </p>
