@@ -1,6 +1,6 @@
 [![MasterHead](https://www.canva.com/design/DAFSAQvdQz8/-J05hcaiHqvlN7VDmn4WVQ/watch?utm_content=DAFSAQvdQz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://alida.github.io)
 <h1 align="center">Hi 👋, I'm Alida Mushiranzigo</h1>
-<h3 align="center">A passionate Data Engineer and developer from BURUNDI</h3>
+<h3 align="center">A passionate Data Analyst|Engineer|Business Analyst| and developer from SOUTH AFRICA</h3>
 <img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 
