@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/MushiranzigoAl4" target="blank"><img src="https://img.shields.io/twitter/follow/MushiranzigoAl4?logo=twitter&style=for-the-badge" alt="MushiranzigoAl4" /></a> </p>
 
-- 🔭 I’m currently working on ***DevOps***
+- 🔭 I’m currently working on different projects as*** Freelance***
 
-- 🌱 I’m currently learning-mastering ***ETL-Mapping***
+- 🌱 I’m currently looking for full-time position as***Data Analyst,Data Engineer or Business Analyst/IT Specialist ***
 
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **alida2017@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Hardworker and a never give-up person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
