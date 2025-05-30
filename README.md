@@ -1,6 +1,6 @@
 [![MasterHead](https://www.canva.com/design/DAFSAQvdQz8/-J05hcaiHqvlN7VDmn4WVQ/watch?utm_content=DAFSAQvdQz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://alida.github.io)
 <h1 align="center">Hi 👋, I'm Alida Mushiranzigo</h1>
-<h3 align="center">A passionate Data Analyst|Data Engineer|Business Analyst|Digital Marketing Instructor and developer from SOUTH AFRICA</h3>
+<h3 align="center">A passionate Data Scientist/Analyst|Data Engineer|Business Analyst|Digital Marketing Instructor and developer living in USA</h3>
 <img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFSAvhgATA/mY36pP3THTfgWZpahI1vxg/watch?utm_content=DAFSAvhgATA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/MushiranzigoAl4" target="blank"><img src="https://img.shields.io/twitter/follow/MushiranzigoAl4?logo=twitter&style=for-the-badge" alt="MushiranzigoAl4" /></a> </p>
 
-- 🔭 I’m currently working on different projects as*** Freelance***
+- 🔭 I’m currently working on different projects as***Freelancer*** and ***Consultant***
 
 - 🌱 I’m currently looking for full-time position as***Data Analyst,Data Engineer or Business Analyst/IT Specialist ***
 
